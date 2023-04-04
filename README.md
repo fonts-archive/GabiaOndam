@@ -15,7 +15,7 @@ font-family: 'Gabia Ondam';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaOndam/GabiaOndam.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaOndam/GabiaOndam.css" type="text/css"/>
 ```
 
 &nbsp;
